@@ -14,4 +14,4 @@ Please refer to the example code in the example folder. When the example code is
 [Task] task 3 is running
 
 # The next step
-I am planning to add a new feature to control the minimum amount of thread in the pool. When there is no more tasks need to be executed, the thread pool will terminate redundant threads and wait for new tasks with minimum thread number.
+I am keeping improving this thread pool for making it better. If you have any suggestion for it, please tell me without hesitation.
