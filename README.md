@@ -3,6 +3,7 @@ This is the thread pool in C++ with a similar feature as Java API schedulAtFixed
 
 # How to use it
 Please refer to the example code in the example folder. When the example code is executed, it will show the message similar as below.
+
 [PeriodicalThread] Start at Mon Mar 21 16:08:30 2016
 [Task] task 1 is running
 [Task] task 2 is running
